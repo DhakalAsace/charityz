@@ -1,0 +1,1 @@
+[["/home/project/src/pages/FAQ.tsx","import React from 'react';\n\nconst FAQ: React.FC = () => {\n  return (\n    <div className=\"container mx-auto px-4 py-8\">\n      <h1 className=\"text-3xl font-bold mb-4\">Frequently Asked Questions</h1>\n      <p>This is the FAQ page. Content coming soon.</p>\n    </div>\n  );\n};\n\nexport default FAQ;"]]
